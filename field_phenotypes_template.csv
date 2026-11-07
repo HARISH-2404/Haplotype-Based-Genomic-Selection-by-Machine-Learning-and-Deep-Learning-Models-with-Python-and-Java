@@ -1,0 +1,9 @@
+Genotype,Environment,Replication,Trait,Value
+COT001,E1,R1,Yield,2800
+COT001,E1,R2,Yield,2900
+COT001,E2,R1,Yield,2700
+COT001,E2,R2,Yield,2850
+COT002,E1,R1,Yield,2500
+COT002,E1,R2,Yield,2600
+COT002,E2,R1,Yield,2450
+COT002,E2,R2,Yield,2550
