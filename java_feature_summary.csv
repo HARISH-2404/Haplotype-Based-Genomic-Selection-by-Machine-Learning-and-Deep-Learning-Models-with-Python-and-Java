@@ -1,0 +1,4 @@
+features,n_lines,n_columns,n_blocks
+SNP,300,1393,1393
+HAP_LD,300,1453,515
+HAP_FIXED,300,1539,289

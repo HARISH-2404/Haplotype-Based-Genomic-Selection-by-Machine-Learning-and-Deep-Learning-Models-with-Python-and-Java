@@ -1,0 +1,10 @@
+{
+  "lines_in": 300,
+  "lines_out": 300,
+  "snps_in": 2600,
+  "snps_out": 1393,
+  "removed_high_missing": 0,
+  "removed_low_maf": 1207,
+  "mean_missing_rate": 0.01502051282051282,
+  "missing_after_imputation": 0
+}

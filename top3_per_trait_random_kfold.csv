@@ -1,0 +1,13 @@
+trait,features,model,family,scheme,r_mean,r_sd,r_tbv,accuracy,rmse,fit_seconds
+LP,HAP_LD,LASSO,linear,random_kfold,0.6808,0.0314,0.7625,0.7861,1.6132,0.6628
+LP,HAP_LD,GradBoost,ML,random_kfold,0.6807,0.0045,0.7579,0.786,1.6074,0.8316
+LP,SNP,GradBoost,ML,random_kfold,0.6578,0.0076,0.739,0.7595,1.6416,0.7257
+BW,HAP_LD,GradBoost,ML,random_kfold,0.5807,0.0194,0.7152,0.7497,0.3837,0.8523
+BW,HAP_LD,LASSO,linear,random_kfold,0.5685,0.0201,0.7205,0.7339,0.3893,0.8243
+FL,HAP_LD,GradBoost,ML,random_kfold,0.5338,0.0195,0.7191,0.7198,1.3953,0.8148
+FL,SNP,LASSO,linear,random_kfold,0.5302,0.0504,0.7336,0.7149,1.4056,1.0237
+BW,HAP_LD,RandomForest,ML,random_kfold,0.5255,0.023,0.6504,0.6784,0.4042,0.2822
+FL,HAP_LD,LASSO,linear,random_kfold,0.5243,0.0432,0.6969,0.707,1.4347,0.8599
+SCY,HAP_FIXED,BayesRidge,linear,random_kfold,0.4147,0.0033,0.5558,0.6556,23.1776,0.5864
+SCY,HAP_FIXED,RR-BLUP,linear,random_kfold,0.4122,0.0035,0.5495,0.6518,23.2385,0.015
+SCY,HAP_LD,BayesRidge,linear,random_kfold,0.3863,0.0169,0.5684,0.6108,23.4692,0.3791

@@ -1,0 +1,3 @@
+model,n_fold_pairs,fold_level_correlation,mean_abs_diff_r,mean_r_java,mean_r_python
+MLP,120,0.3086,0.2195,0.1925,0.1155
+RR-BLUP,120,0.9995,0.0036,0.3724,0.3715

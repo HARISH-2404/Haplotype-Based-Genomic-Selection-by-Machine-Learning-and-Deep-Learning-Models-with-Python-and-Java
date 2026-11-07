@@ -1,0 +1,2 @@
+lines_in,lines_out,snps_in,snps_out,removed_high_missing,removed_low_maf,mean_missing_rate,missing_after_imputation
+300,300,2600,1393,0,1207,0.01502051282051282,0
