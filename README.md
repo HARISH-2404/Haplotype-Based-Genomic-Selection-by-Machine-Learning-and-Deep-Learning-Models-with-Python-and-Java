@@ -106,7 +106,7 @@ A Python–Java application architecture for future breeding applications.
 
 Development Team
 
-Harisha K
+**Harisha K
 Ph.D. Scholar
 Department of Genetics and Plant Breeding
 University of Agricultural Sciences, Dharwad, Karnataka, India.
@@ -121,8 +121,6 @@ M.Sc. Scholar
 Department of Genetics and Plant Breeding
 University of Agricultural Sciences, Dharwad, Karnataka, India.
 
-
-
-Developed by: Harisha K, Madhusudhan M R, and  Nagashree K S, 
+Developed by: Harisha K, Madhusudhan M R, and  Nagashree K S
 
 Research Domain: Cotton Genomics | Haplotype-Based Genomic Selection | Machine Learning | Deep Learning | Precision Breeding.
